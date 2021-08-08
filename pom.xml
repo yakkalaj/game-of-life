@@ -157,9 +157,7 @@
                 </configuration>
             </plugin>
 
-        </plugins>
-
-        <pluginManagement>
+         <pluginManagement>
             <plugins>
                 <plugin>
                     <groupId>org.easyb</groupId>
