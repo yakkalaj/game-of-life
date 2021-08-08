@@ -90,7 +90,6 @@
         <exclude>**/IT*.java</exclude>
     </excludes>
 </configuration>
-
             <plugin>
                 <groupId>org.jacoco</groupId>
                 <artifactId>jacoco-maven-plugin</artifactId>
