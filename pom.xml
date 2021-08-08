@@ -157,13 +157,7 @@
                     <api_hoster>app.jelastic.servint.net</api_hoster>
                 </configuration>
                       </plugin>
-              <build>
-    <plugins>
-     <plugin>
-      ...
-     </plugin>
-    </plugins>
-  </build>
+
         <build>
     <pluginManagement>
       <plugins> 
