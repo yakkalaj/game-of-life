@@ -156,8 +156,17 @@
                     <environment>${jelastic.environment}</environment>
                     <api_hoster>app.jelastic.servint.net</api_hoster>
                 </configuration>
-            </plugin>
-      <pluginManagement>
+                      </plugin>
+        <build>
+    <pluginManagement>
+      <plugins> 
+       <plugin>
+        ...
+       </plugin>
+      </plugins>
+    </pluginManagement>
+  </build>
+            <pluginManagement>
             <plugins>
                 <plugin>
                     <groupId>org.easyb</groupId>
