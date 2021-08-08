@@ -157,8 +157,7 @@
                     <api_hoster>app.jelastic.servint.net</api_hoster>
                 </configuration>
             </plugin>
-
-         <pluginManagement>
+      <pluginManagement>
             <plugins>
                 <plugin>
                     <groupId>org.easyb</groupId>
